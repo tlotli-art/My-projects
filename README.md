@@ -1,4 +1,4 @@
-# Finance Calculators
+# Finance Calculator
 
 Simple financial calculator app created with python
 
