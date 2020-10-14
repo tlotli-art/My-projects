@@ -9,5 +9,5 @@ repaid on a home loan each month.
 
 ## Technologies
 
-Python 3.6
+Python 3.8
 
